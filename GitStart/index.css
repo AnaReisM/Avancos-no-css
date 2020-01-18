@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #170b3b;
+  font-family: Rubik, sans-serif;
+  color: white;
+}
+
+.divmae {
+  padding: 25px;
+}
+
+.logo {
+  width: 125px;
+}
+
+.titulo {
+  margin-top: 50px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.conteudo {
+  margin-bottom: 55px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.pergunta {
+  font-size: 16px;
+  text-align: center;
+}
+
+.botao {
+  background-color: #642efe;
+  border: none;
+  font-weight: bold;
+  width: 224px;
+  height: 50px;
+  margin: 15px auto;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  display: block;
+}
