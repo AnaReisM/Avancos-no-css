@@ -63,3 +63,12 @@ li {
   border-radius: 5px;
   margin-top: 10px;
 }
+
+.cabecalho:hover {
+  background-color: #efb10a;
+}
+
+img {
+  height: 50%;
+  width: 50%;
+}
