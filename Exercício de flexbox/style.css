@@ -4,12 +4,13 @@ body, ul, li, p {
   list-style: none;
   font-size: 1.2rem;
   font-family: Arial;
-  color: white;
 }
 
 a {
   text-decoration: none;
+  color: white;
 }
+
  header {
    background: #1d1e20;
    display: flex;
@@ -26,3 +27,8 @@ a {
  .menu li {
    margin-left: 10px;
  } 
+
+ .menu li a {
+   display: block;
+   padding: 10px;
+ }
