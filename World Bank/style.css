@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --blue: #2f80ed;
+  --orange: #f0994a;
+  --dark-blue: #032244;
+}
+
+.header {
+  background-color: var(--blue);
+}
+
+.block-principal {
+  background-color: var(--blue);
+}
+
+.logo {
+  width: 300px;
+}
